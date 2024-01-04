@@ -186,6 +186,8 @@ export const FeeManagement = () => {
     }
   };
 
+  // development
+
   const handle_next = async () => {
     await axios
       .get(`http://localhost:8000/fee_details_by_student_id/${student_id}`)
