@@ -32,10 +32,10 @@ export const Login = () => {
             setError("Invalid Credential.");
           } else if(res.data.user_type === 'student'){
             console.log(res.data);
-            alert('student')
+            // alert('student')
             navigate("/", { state: res.data });
           } else if(res.data.user_type === 'admin') {
-            alert('admin')
+            // alert('admin')
             navigate("/admin", { state: res.data });
           }
         })
