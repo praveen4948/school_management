@@ -1,3 +1,13 @@
+# Some images of the site
+![Screenshot from 2024-01-05 19-40-06](https://github.com/praveen4948/school_management/assets/82581071/222e4b82-6445-410b-9913-eb18b74085e5)
+![Screenshot from 2024-01-05 19-40-01](https://github.com/praveen4948/school_management/assets/82581071/76730290-9c0e-495e-9df1-3343a0c48803)
+![Screenshot from 2024-01-05 19-39-56](https://github.com/praveen4948/school_management/assets/82581071/7123f8b1-65ea-4b9a-9db3-cccab236482d)
+![Screenshot from 2024-01-05 19-39-52](https://github.com/praveen4948/school_management/assets/82581071/3bb2b462-fa15-4e19-bf72-7991bef7db9b)
+![Screenshot from 2024-01-05 19-39-40](https://github.com/praveen4948/school_management/assets/82581071/a6b04cad-a705-4b41-acdf-cc0c28cb7076)
+![Screenshot from 2024-01-05 19-39-37](https://github.com/praveen4948/school_management/assets/82581071/beafb4c1-ab46-4cc5-8efc-c5b85204280b)
+![Screenshot from 2024-01-05 19-39-27](https://github.com/praveen4948/school_management/assets/82581071/ad05fe26-5dda-4952-9179-a9d6643b1b4f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
